@@ -6,7 +6,7 @@ VideoNLP is an innovative application for helping students better learn from vid
 ![License](https://img.shields.io/badge/license-proprietary-red.svg)
 
 ## 🎥 Demo Video/GIF
-
+soon to be added
 <!-- Option 1: Embed a GIF -->
 ![Demo GIF](path/to/your/demo.gif)
 
