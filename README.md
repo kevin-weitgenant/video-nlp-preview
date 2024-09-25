@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# VideoNLP
 
-## Getting Started
+VideoNLP is an innovative application for helping students better learn from video content. It uses natural language processing (NLP) techniques to gamify the learning. Generating chapters, questions, and summaries from video content, VideoNLP helps students to better understand and retain information.
 
-First, run the development server:
+![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+![License](https://img.shields.io/badge/license-proprietary-red.svg)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🎥 Demo Video/GIF
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- Option 1: Embed a GIF -->
+![Demo GIF](path/to/your/demo.gif)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<!-- Option 2: Embed a video (GitHub supports YouTube videos) -->
+<!-- [![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) -->
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🌟 Working Features
 
-## Learn More
+- Streaming Question generation (only true or false for now)
+- Topic Segmentation. Chapter generation(only on backend)
+- AI generated subtitles (only on backend)
+- Improved readability (transform subtitles into a more readable format)  (only on backend)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Roadmap Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Authentication + Stripe integration
+- More UIs for generated questions (multiple choice, fill in the blanks, table with question and answers hidden)
+- Save generated questions and answers to a database.
+- Spaced repetition for the generated questions.
+- ... several more features in my head
 
-## Deploy on Vercel
+## 🔒 Closed Source
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is proprietary and closed-source. The code is not available for public viewing or contribution.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 💼 Business Inquiries
+
+We're open to business partnerships and collaborations. If you're interested in working with us or have any questions, please reach out:
+
+📧 Email: [kcweitgenant@inf.ufpel.edu.br](mailto:kcweitgenant@inf.ufpel.edu.br)
